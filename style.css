@@ -1,0 +1,22 @@
+/* Colores y tipografías web */
+:root {
+  --bg-color: #324734;
+  --accent-color: #f5d951;
+  --base-color: #bfd66d;
+  --sec-accent-color: #6ef269;
+  --spacing: 20px;
+  --r: 18px;
+  --shadow: 0 14px 30px rgba(0, 0, 0, 0.35);
+}
+
+/* Reset OR Normalise */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Scroll suave */
+html {
+  scroll-behavior: smooth;
+}
