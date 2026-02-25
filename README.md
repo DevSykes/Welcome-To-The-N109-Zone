@@ -42,7 +42,7 @@ The main goals of this project are:
 
 ---
 
-## Context: Onychinus
+## Context:
 
 Within the Love and Deepspace universe, Onychinus is an influential and secretive organization operating in the N109 Zone. It is closely associated with underground activity, strategic operations, and the power structures that define the region.
 
@@ -57,4 +57,5 @@ In this website adaptation, Onychinus functions as a core conceptual element, sh
 All characters, locations, and original game content belong to Infold Games.
 
 This website is a non-commercial, fan-made project created solely for educational and portfolio purposes.
+
 
