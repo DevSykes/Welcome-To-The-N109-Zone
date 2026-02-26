@@ -58,3 +58,8 @@ h6 {
     sans-serif;
   color: var(--accent-color);
 }
+
+/* Oculta la página para mostrar solo el login */
+#archive {
+  display: none;
+}
