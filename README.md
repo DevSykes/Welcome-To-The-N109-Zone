@@ -1,61 +1,113 @@
-# N109 Zone — Fan-Made Website Project
+# ONYCHINUS INTERNAL ARCHIVE
 
-A fictional website inspired by *Love and Deepspace* (LADS), created for educational purposes and front-end development practice.
+A fictional internal system inspired by *Love and Deepspace* (hereafter referred to as **LADS**), focused on the N109 Zone and the organization Onychinus.
 
----
+This project recreates a restricted intelligence archive featuring hierarchical access levels, progressive unlocking, and a narrative-driven final breach sequence centered around Sylus.
 
-## About the Game
-
-This project is inspired by Love and Deepspace, a mobile otome game developed by Infold Games.  
-The game combines romance, science fiction, and action elements, offering immersive storytelling and interactive combat mechanics.
-
-Throughout this repository, the game will be referred to as **LADS** (Love and Deepspace).
+Created as a non-commercial educational project using HTML, CSS, and vanilla JavaScript.
 
 ---
 
-## Project Overview
+## Project Intent
 
-This is a fan-made fictional website set in the N109 Zone, one of the locations within the LADS universe.
+This project was developed as a front-end portfolio piece with the goal of demonstrating:
 
-The visual identity and thematic direction of the project are primarily inspired by the atmosphere of N109 and its narrative connection to the character Sylus.
+- Structured UI architecture in a single-page application  
+- DOM manipulation using vanilla JavaScript  
+- Progressive state management without frameworks  
+- Conditional rendering and dynamic content unlocking  
+- Responsive layout design using CSS Grid and Flexbox  
+- Thematic UI design aligned with narrative context  
 
-This project is unofficial and is not affiliated with or endorsed by Infold Games.
-
----
-
-## Objectives
-
-The main goals of this project are:
-
-- To practice and strengthen HTML, CSS, and JavaScript skills  
-- To improve front-end structure, styling, and layout design  
-- To experiment with responsive design and interactive elements  
-- To build a cohesive themed website based on an existing fictional universe  
+The objective was to merge technical implementation with immersive storytelling while maintaining clean, maintainable code.
 
 ---
 
-## Technologies Used
+## Overview
+
+This website simulates a classified internal archive belonging to Onychinus, the criminal organization operating within the N109 Zone.
+
+Users enter through a simulated authentication screen and are granted provisional clearance. From there, they navigate a structured dossier containing historical data, operational resources, alliances, objectives, and restricted files.
+
+Certain sections require progressive logic-based challenges to unlock. The final file — Sylus’ Black File — requires a double verification sequence and triggers a monitored system state.
+
+---
+
+## Context
+
+The archive is strictly based on the established canon of **LADS**.
+
+All included information follows the official lore of the game. No alternative interpretations or fan-fiction elements are introduced.
+
+The structure and tone aim to reflect:
+
+- Hierarchical power structures  
+- Restricted internal systems  
+- Intelligence-style documentation  
+- Criminal sophistication  
+
+This is not a commercial platform or interactive store.  
+The armory section represents internal acquisition resources available to allied members within the organization.
+
+---
+
+## Spoiler Notice
+
+This project contains sensitive narrative information related to:
+
+- The N109 Zone  
+- Onychinus  
+- Sylus  
+- Organizational structure and internal operations  
+
+Progressing through the archive may reveal content not yet encountered in active game progression within **LADS**.
+
+Viewer discretion is advised.
+
+---
+
+## Experience & Functionality
+
+The system includes:
+
+- Simulated authentication screen  
+- Clearance level progression  
+- Locked sections with override challenges  
+- Responsive armory grid (desktop grid / mobile single column)  
+- Internal currency represented through Red Gems  
+- Narrative-driven monitored access state  
+- Session termination overlay requiring manual refresh  
+
+The Sylus file introduces a system anomaly state, reinforcing the narrative theme of unauthorized access and observation.
+
+---
+
+## Features
+
+- Single-page application structure  
+- Responsive design  
+- Dynamic section unlocking  
+- Dossier-style content presentation  
+- Progressive interaction logic  
+- Session-based experience reset  
+
+---
+
+## Tech Stack
 
 - HTML5  
-- CSS3  
+- CSS  
 - JavaScript  
 
----
-
-## Context:
-
-Within the Love and Deepspace universe, Onychinus is an influential and secretive organization operating in the N109 Zone. It is closely associated with underground activity, strategic operations, and the power structures that define the region.
-
-Sylus serves as the leader of Onychinus, reinforcing his authority and narrative significance within the N109 setting. His role within the organization contributes heavily to the atmosphere, hierarchy, and thematic direction represented in this project.
-
-In this website adaptation, Onychinus functions as a core conceptual element, shaping the visual identity and restricted-access structure of the platform.
+No frameworks or external libraries were used.
 
 ---
 
 ## Disclaimer
 
-All characters, locations, and original game content belong to Infold Games.
+*Love and Deepspace* (LADS), its characters, world-building elements, and all related assets are the property of Infold Games.
 
-This website is a non-commercial, fan-made project created solely for educational and portfolio purposes.
+All images, names, and canonical references belong to their respective owners.
 
-
+This is a non-commercial fan-made project created for educational and portfolio purposes only.  
+No copyright infringement is intended.
