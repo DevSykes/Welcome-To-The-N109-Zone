@@ -1,6 +1,6 @@
 # ONYCHINUS INTERNAL ARCHIVE
 ⚠️ *Note: This project is currently under development. The password will be published in this README once the project is completed.* ⚠️
-
+ 
 A fictional internal system inspired by *Love and Deepspace* (hereafter referred to as **LADS**), focused on the N109 Zone and the organization Onychinus.
 
 This project recreates a restricted intelligence archive featuring hierarchical access levels, progressive unlocking, and a narrative-driven final breach sequence centered around Sylus.
@@ -113,4 +113,5 @@ All images, names, and canonical references belong to their respective owners.
 This is a non-commercial fan-made project created for educational and portfolio purposes only.  
 
 No copyright infringement is intended.
+
 
