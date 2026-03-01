@@ -6,9 +6,9 @@ const errorMessage = document.getElementById("error-message");
 
 button.addEventListener("click", function () {
 
-  const passwordValue = input.value.toLowerCase();
-
-  if (passwordValue === "sylus") {
+  const passwordValue = input.value.trim();
+  const secret = atob("UFJPSkVDVDo6Q1JJTVNPTg==");
+  if (passwordValue === secret) {
 
   errorMessage.classList.remove("error");
   errorMessage.classList.add("success");
