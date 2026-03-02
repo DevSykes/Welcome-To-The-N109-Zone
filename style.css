@@ -454,3 +454,13 @@ h1::after {
 .window-content li {
   margin-bottom: 8px;
 }
+
+/* SYSTEM OVERLAY */
+
+.system-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.65);
+  backdrop-filter: blur(2px);
+  z-index: 900;
+}
