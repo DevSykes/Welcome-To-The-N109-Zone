@@ -18,6 +18,7 @@ button.addEventListener("click", function () {
   input.classList.add("glow-success");
 
   input.value = "";
+  button.disabled = true;
 
   setTimeout(function () {
     input.classList.remove("glow-success");
