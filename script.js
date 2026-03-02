@@ -46,3 +46,21 @@ input.addEventListener("input", function () {
   errorMessage.style.opacity = "0";
   errorMessage.textContent = "";
 });
+
+// =============================
+// INTERNAL PERSONNEL WINDOW
+// =============================
+
+const personnelFolder = document.querySelector(".folder:not(.locked)");
+const personnelWindow = document.getElementById("personnel-window");
+const closeWindowBtn = document.getElementById("close-window");
+
+if (personnelFolder && personnelWindow && closeWindowBtn) {
+  personnelFolder.addEventListener("click", function () {
+    personnelWindow.classList.remove("hidden");
+  });
+
+  closeWindowBtn.addEventListener("click", function () {
+    personnelWindow.classList.add("hidden");
+  });
+}
